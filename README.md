@@ -7,7 +7,6 @@ Digikrishi is a web application designed to streamline the procurement of seeds 
 - **Easy Ordering:** Simplified process for farmers to browse, select, and order seeds and pesticides.
 - **Product Information:** Detailed information on various products to assist farmers in making informed decisions.
 - **User Accounts:** Secure user accounts for farmers to track their orders and manage their profiles.
-- **Efficient Inventory Management:** Real-time inventory updates to ensure product availability and timely deliveries.
 
 ## Technologies Used
 
